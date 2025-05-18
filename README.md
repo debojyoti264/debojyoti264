@@ -2,7 +2,7 @@
 
 🎓 Studying Computer Science Engineering at Asansol Engineering College.
 
-💻 Sharing my journey in C, C++, and Web dev.
+💻 Sharing my journey in C++, and Web dev.
 
 🏅 Sports enthusiast | Cricket | eSports | Sprinting | Chess.
 

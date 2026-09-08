@@ -1,6 +1,5 @@
 # Hi there, I'm Debojyoti Banerjee 👋
 
-![1-Year AI Full-Stack Developer Job-Ready Roadmap](1000189422_LE_upscale_gentle.png)
 
 I am a Computer Science Engineering student at Asansol Engineering College, deeply passionate about coding and software development. I specialize in bridging the gap between robust backend systems, dynamic frontend interfaces, and cutting-edge Generative AI, and I actively share my ongoing journey in C++ and web development.
 

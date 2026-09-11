@@ -9,7 +9,7 @@ I am a Computer Science Engineering student at Asansol Engineering College, deep
 * 🧠 **Problem Solver:** Mastered Data Structures and Algorithms in C++ to write highly optimized, efficient code.
 * 🌐 **Full-Stack Developer:** Capable of designing complete web ecosystems, from interactive React UIs to scalable Node.js and Python backend architectures.
 * 🤖 **AI Integrator:** Experienced in building Agentic AI systems, RAG pipelines, and integrating state-of-the-art LLMs into practical applications.
-* 🎮 **Beyond Coding:** I am a massive sports enthusiast—whether it is playing cricket, sprinting, calculating chess moves, or diving into eSports and livestreaming gameplay on my Nani Plays channel.
+* 🎮 **Beyond Coding:** I am a massive sports enthusiast—whether it is playing cricket, sprinting or diving into eSports.
 
 ## 💻 Tech Stack
 

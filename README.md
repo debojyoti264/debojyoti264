@@ -41,7 +41,6 @@ I am a Computer Science Engineering student at Asansol Engineering College, deep
 * **Batman Theme Portfolio:** A visually immersive, dark-themed personal portfolio website showcasing advanced frontend design and CSS animation skills.
 * **ECL File Tracker:** A dedicated utility application built to efficiently track, manage, and organize ECL files for streamlined workflow.
 * **Nexus Intelligence:** A high-fidelity tactical command dashboard built to visualize real-time global telemetry, geopolitical risk, and procedural market analytics through an immersive 3D WebGL interface.
-* 
 * **Custom AI Voice Assistant:** A C++ and Python-based voice-activated assistant utilizing the Whisper speech-to-text library for system automation and web querying. *(Currently in Development)*
 
 ## 📫 Let's Connect
